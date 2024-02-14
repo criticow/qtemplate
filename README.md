@@ -6,4 +6,9 @@ Template to be used on vscode with the cmake extensions
 
 ```
 git clone https://github.com/criticow/qtemplate.git my_project
+
+cd my_project
+
+rm -rf .git
 ```
+
